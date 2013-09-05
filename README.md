@@ -17,7 +17,7 @@ Load the plugin in your:
 <?php
 //./Config/bootstrap.php
 CakePlugin::load(array(
-    'Mustache'  => array(
+    'CakeMustache'  => array(
         'bootstrap' => true
     )
 ));
@@ -32,7 +32,7 @@ Add it to a Controller:
 //./Controller/AppController.ctp
 class AppController extends Controller {
     public $helpers = array(
-        'Mustache.Mustache' => array(
+        'CakeMustache.Mustache' => array(
             'path'          => './../webroot/mustache',
             'extension'     => 'mustache',
             'viewVariables' => true
