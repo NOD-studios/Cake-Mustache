@@ -1,13 +1,13 @@
 {
 	"name"			: "nod.st/cakephp-mustache",
 	"type"			: "cakephp-plugin",
-	"description"	: "Simple CakePHP View Helper Plugin for the Mustache template assets",
+	"description"		: "Simple CakePHP View Helper Plugin for the Mustache template assets",
 	"authors"		: [
 		{
-            "name"		: "Furkan Tunalı",
-            "homepage"	: "http://www.furkantunali.com",
-            "email"		: "furkan@nod.st",
-            "role"		: "Author"
+			"name"		: "Furkan Tunalı",
+			"homepage"	: "http://www.furkantunali.com",
+			"email"		: "furkan@nod.st",
+			"role"		: "Author"
 		},
 		{
             "name"     : "NOD Studios",
@@ -20,7 +20,7 @@
 		"mustache/mustache"		: "2.*.*",
 		"php"					: ">=5.3.0"
 	},
-     "extra": {
-        "installer-name": "Mustache"
+     "extra"		: {
+        "installer-name"	: "Mustache"
     }
 }
