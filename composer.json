@@ -19,5 +19,8 @@
 		"composer/installers"	: "*",
 		"mustache/mustache"		: "2.*.*",
 		"php"					: ">=5.3.0"
-	}
+	},
+     "extra": {
+        "installer-name": "Mustache"
+    }
 }
