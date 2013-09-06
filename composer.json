@@ -2,8 +2,6 @@
 	"name"			: "nod.st/cakephp-mustache",
 	"type"			: "cakephp-plugin",
 	"description"	: "Simple CakePHP View Helper Plugin for the Mustache template assets",
-	"license"		: "MIT",
-    "version"       : "1.0.1",
 	"authors"		: [
 		{
             "name"		: "Furkan Tunalı",
